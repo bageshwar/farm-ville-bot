@@ -1,0 +1,18 @@
+#summary How to use the Delete Farm Feature
+= Introduction =
+
+This application has a feature where you can automatically delete the plots from your Farm.
+Deleting plots en-masse is a complicated task, when your farm is of the order 16X16 or more, and it is a common task to relocate objects/livestock. To use this, you need to perform the following steps :
+
+  *      Capture Screen : This will take a screenshot of your farm, please refer text describing how to use the Capture Screen Feature.
+  *      Select Start Coordinates : Once the screen has been captured, you will need to select the starting location. This is done by clicking on this button and then clicking on the plot from where you wish to start FVB.
+  *      Select Delete Tool : Click on this button, then click on the Delete Tool which is located at the Bottom-Right corner of FarmVille Screen.
+  *      Select Delete Accept : This part is a little tricky. Here you need to give the location of the "OK" message that pop-ups once you delete something. This is a 6-step process.
+          # Go to FarmVille and Select Delete Tool
+          # Click on a Plot( A Confirmation Popup will appear )
+          # Now come back to FVB and click on Capture Screen and switch to your FarmVille
+          # Once the Screen has been captured, click on Select Delete Accept
+          # Here you need to select the location of "OK" Button on that popup, just click on the Green Button titled OK
+          # The screen will disappear and you will be notified about the location being saved.
+
+  *      Start Deleting Field : Click on Start Deleting Field once you have set all the values correctly, and switch to FarmVille.

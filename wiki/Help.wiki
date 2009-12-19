@@ -14,6 +14,12 @@ Following User Visible/Editable Variables need to be understood about
    * StartY       : The staring Y-Coordinate for FVB.
    * GridX        : The X no of Grids to process.
    * GridY        : The Y no of Grids to process.
-   * Constant     : The size of Each Grid.
-   * Angle        : The angle of Inclination of the Plot.
+   * Constant     : * do not edit * The size of Each Grid.
+   * Angle        : * do not edit * The angle of Inclination of the Plot.
    * Click        : The delay in milliseconds before each Click
+
+= Capturing Screen =
+
+Once you click on Capture Screen, the application waits for the specified number of seconds before taking the screen shot. In this time, you need to switch to FarmVille, and switch to Full Screen Mode.
+----
+* Note * Full screen mode is not required for Soya Bean Hack

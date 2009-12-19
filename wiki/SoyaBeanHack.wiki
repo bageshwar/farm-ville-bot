@@ -1,4 +1,5 @@
 #summary How to perform the Soya Bean Hack.
+#labels Featured,SoyaBean-Hack
 
 = Introduction =
 

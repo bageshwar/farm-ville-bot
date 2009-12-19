@@ -1,0 +1,10 @@
+#summary Instructions on Saving your settings.
+
+= Intructions =
+
+It is quite painful to configure FVB before using it. If you are a frequent user, you might need to repeat the same process again and again. To help users with this, v2.0 and above have a Save/Load Settings feature.
+
+
+= Details =
+
+Once you have selected all the points(locations), make sure about the values of * delay,click delay, gridX and gridY * are setup correctly. Then you can click on save settings to save these settings on your computer. For later use, simply click on Load Settings and select the file that you saved, and those settings will be loaded automatically.

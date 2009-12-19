@@ -1,6 +1,14 @@
 #summary Homepage.
-#labels Deprecated
+#labels Phase-Requirements
 
 = Introduction =
 
-Some lines about my project.
+You need to install jre1.6 for this to work correctly. This is available free of cost, just Google it.
+
+Once you have installed JRE, you can run this application simply by double-clicking on fvb.jar
+
+_* NOTE: *_ This will not work if you have Nokia PC Suite installed in your system, in that case try to select open with from the popup-menu and select Java Runtime.
+
+Once you can successfully run the application and see the main screen, their are a couple of steps which needs to be followed for the Bot to work correctly.
+
+Please refer to further documentation on this website

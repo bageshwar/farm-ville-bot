@@ -1,5 +1,6 @@
-<a href="" >Home</a><br>
-<a href="" >Introduction</a><br>
-<a href="" >Harvest/Plow/Sow</a><br>
-<a href="" >Delete Farm</a><br>
-<a href="" >Soya Bean Exploit</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/FarmVille" >Home</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/Help" >Introduction</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/Harvest" >Harvest/Plow/Sow</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/DeleteFarm" >Delete Farm</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/SoyaBeanHack" >Soya Bean Exploit</a><br>
+<a href="http://code.google.com/p/farm-ville-bot/wiki/SavingSettings">Saving Settings</a>

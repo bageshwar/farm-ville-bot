@@ -1,0 +1,22 @@
+#summary Harvest/Plow/Sow
+#labels Featured,Harvest
+
+= Introduction =
+
+This is an introduction to Plow/Harvest and Sow Features of FVB
+
+
+= Details =
+
+  * Set the delay according to your convenience, this is the amount of time you require to switch to your browser, and switch to the Full Screen Mode of FarmVille
+  * StartY and StartY can be set using the Mouse Capture feature, once you do that, you can note down the co-ordinates for future reference, so that you don't have to go through the Mouse Capture feature again and again. To use the Mouse Capture Feature, perform the following steps :
+  * Set the Delay to 15 seconds
+    * Click on Capture Screen
+    * Switch to your browser immediately and switch FarmVille to full screen mode. Make sure you are completely zoomed out (i.e. Minimum size )
+    * After 15 seconds, the browser will automatically switch to normal and FVB will be in focus. Now your screen has been saved.
+    * Click on Select Start Coordinates, you will see a screen similar to FarmVille, now click on the starting Plot from where you wish FVB to start. Be sure you are precise, and click on the exact centre of the Plot.
+    * Now your coordinates are saved, and you can Note them down, so that they can be entered in the future, without using this Mouse Capture Feature
+  * Now you need to specify the values of GridX and GridY. Refer to documentation to know more about those variables.
+  * Once the StartX and StartY values are set, you can click on Start FVB , and immediately switch to your browser, with FarmVille open, full screen and full zoom-out i.e. minimum size.
+  * After the specified amount of delay, the mouse will automatically move to each Plot, automatically harvesting any size of Farm within a minute.
+  

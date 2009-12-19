@@ -8,7 +8,7 @@ So I'v come up with this Bot to make things easier.
 
 = Usage Instructions =
 
-  * * Capture Screen : * Check the delay value, before clicking on this button. Click on this button and switch to FarmVille [ Note: This hack can be done in Normal Screen Mode, so no need to switch to Full Screen Mode to capture screen ].
+  * * Capture Screen : * Check the delay value, before clicking on this button. Click on this button and switch to FarmVille. _* Note: *_ This hack can be done in Normal Screen Mode, so no need to switch to Full Screen Mode to capture screen .
   * * Select Delete Tool : * Once the screen has been captured clicking this button will bring a screen very similar to your Farm, click on the Delete Tool at the Bottom-Right Corner.
   * * Select Market : * Repeat the process as followed to select Delete Tool, but this time click on the Market.
   * * Select Plow Tool : * Repeat the process followed to Select Delete Tool, but this time click on the Plow Tool.

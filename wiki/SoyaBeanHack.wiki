@@ -1,0 +1,30 @@
+#summary How to perform the Soya Bean Hack.
+
+= Introduction =
+
+The concept behind the Soya Bean Hack is simple. Plowing a farm earns 1XP and costs 15 coins, and Sowing Soya Bean earns 2XP and costs 15 coins, thus with a total expense of 30 coins, one can earn 3XP which equates to 10coins/XP. Buying anything from the market has a standard conversion rate of 100coins/XP, therefore this works 330% faster to gain XP.
+The only problem with this Hack is that, its very cumbersome to manually delete farms, plow them and the reseed them, and repeat the cycle _ n _ number of times.
+So I'v come up with this Bot to make things easier.
+
+= Usage Instructions =
+
+  * * Capture Screen : * Check the delay value, before clicking on this button. Click on this button and switch to FarmVille [ Note: This hack can be done in Normal Screen Mode, so no need to switch to Full Screen Mode to capture screen ].
+  * * Select Delete Tool : * Once the screen has been captured clicking this button will bring a screen very similar to your Farm, click on the Delete Tool at the Bottom-Right Corner.
+  * * Select Market : * Repeat the process as followed to select Delete Tool, but this time click on the Market.
+  * * Select Plow Tool : * Repeat the process followed to Select Delete Tool, but this time click on the Plow Tool.
+  * * Select Delete Accept : * Follow the steps illustrated in the Delete Farm Section
+  * * Select Plow Point : * This is similar to selecting the Delete Accept Tool, following are the steps.
+
+Switch to FarmVille, select Plow Tool Switch Back to FVB and click on Capture Screen, check the delay value which is ideally set at 15 secondsSwitch to FarmVille and selecting the Plow Tool, aim at clear Land, where you get that Green Symbol to create a farm. Dont Click, wait for the screen to be captured.Once the screen is captured switch back to FVB and click on Select Plow Point, You will see a screen similar to the one where you just were. Try and overlap your Mouse-Pointer with the Pointer on Screen and Click. You'll get a confirmation of the location being saved
+  * * Select Start Coordinates : * Once you have selected the Plow Point, click on Select Start Coordinates, and click on the center of the Green Rectangle of the Plot which you were just creating.
+  * * Select Crop : * The process is similar to Selecting Plow Point, and needs the following steps to be performed
+
+Swich to Farmville and click on Market. Switch to FVB and click on Capture Screen and switch back to FarmVille, wait for the screen to be captured. Now click on Select Crop, and a screen similar to the Market will pop-up, click on the * buy * button of Soya Bean. You will get a confirmation of the coordinate being saved.
+
+Once you have selected the 6 locations that are required by the application, you might wish to save the settings. Refer to documentation.
+
+2 more important parameters need to be set finally, these are
+  * * Click : * This parameter specifies the time in milliseconds for the application to wait between clicks. Note that, if you have a slow internet connection and your Market pop-ups after the application clicked on SoyaBean Buy, you should increase its value. 150 is a very safe value for such connections but you may need to increase further.
+  * * Number of Beans : * This is number of times the Soya Bean Hack will be performed. Please not that you will lose 30 coins and gain 3XP for every cycle.
+
+Click on Soya Bean Hack to start the process.

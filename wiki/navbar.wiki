@@ -4,3 +4,4 @@
 <a href="http://code.google.com/p/farm-ville-bot/wiki/DeleteFarm" >Delete Farm</a><br>
 <a href="http://code.google.com/p/farm-ville-bot/wiki/SoyaBeanHack" >Soya Bean Exploit</a><br>
 <a href="http://code.google.com/p/farm-ville-bot/wiki/SavingSettings">Saving Settings</a>
+<a href="http://code.google.com/p/farm-ville-bot/downloads/list">Download Latest Version</a>

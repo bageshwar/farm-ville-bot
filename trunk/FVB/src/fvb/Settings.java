@@ -848,6 +848,7 @@ class Win extends JWindow {
         parent = frm;
         
         addMouseListener(new MouseAdapter(){
+            @Override
             public void mouseClicked(MouseEvent me){
                 System.out.println(me.getLocationOnScreen());
                 parent.setXY(type,me.getLocationOnScreen().y,me.getLocationOnScreen().x);
@@ -860,6 +861,7 @@ class Win extends JWindow {
         });
         
         addMouseMotionListener(new MouseMotionAdapter(){
+            @Override
             public void mouseMoved(java.awt.event.MouseEvent evt) {
                 mouseMoving(evt);
             }

@@ -29,3 +29,7 @@ Once you have selected the 6 locations that are required by the application, you
   * * Number of Beans : * This is number of times the Soya Bean Hack will be performed. Please not that you will lose 30 coins and gain 3XP for every cycle.
 
 Click on Soya Bean Hack to start the process.
+
+Important notes
+ *Screen Orientation* :  Please make sure that the settings you save, is for the screen orientation which you can easily reproduce.
+ *Full Zoom*          :  FarmVille should be in full zoom, but it needs not be in full screen mode.

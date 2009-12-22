@@ -31,5 +31,5 @@ Once you have selected the 6 locations that are required by the application, you
 Click on Soya Bean Hack to start the process.
 
 Important notes
- * Screen Orientation * :  Please make sure that the settings you save, is for the screen orientation which you can easily reproduce.
- * Full Zoom *          :  FarmVille should be in full zoom, but it needs not be in full screen mode.
+  * * Screen Orientation * :  Please make sure that the settings you save, is for the screen orientation which you can easily reproduce.
+  * * Full Zoom *          :  FarmVille should be in full zoom, but it needs not be in full screen mode.
